@@ -2,6 +2,12 @@
   "version": 1,
   "items": [
     {
+      "slug": "2026-04-22-a-rooftop-garden-in-a-solarpunk-city-at--a1a1q7",
+      "prompt": "A rooftop garden in a solarpunk city at golden hour, plants everywhere, glass towers in the distance",
+      "finalPrompt": "360 equirectangular image, A rooftop garden in a solarpunk city at golden hour, plants everywhere, glass towers in the distance",
+      "createdAt": 1776861196351
+    },
+    {
       "slug": "2026-04-22-une-fusee-a30im5",
       "prompt": "une fusée",
       "finalPrompt": "360 equirectangular image, une fusée",
