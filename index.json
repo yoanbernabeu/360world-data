@@ -2,6 +2,12 @@
   "version": 1,
   "items": [
     {
+      "slug": "2026-04-22-interior-of-a-futuristic-spacecraft-cock-a6k1xa",
+      "prompt": "interior of a futuristic spacecraft cockpit, pilot's point of view from the center seat, curved panoramic windows wrapping 360 degrees, glowing holographic control panels, deep space outside with\n   a vivid purple-blue nebula and a ringed gas giant planet approaching, subtle lens flares, cinematic sci-fi lighting, ultra detailed, 8k",
+      "finalPrompt": "360 equirectangular image, interior of a futuristic spacecraft cockpit, pilot's point of view from the center seat, curved panoramic windows wrapping 360 degrees, glowing holographic control panels, deep space outside with\n   a vivid purple-blue nebula and a ringed gas giant planet approaching, subtle lens flares, cinematic sci-fi lighting, ultra detailed, 8k",
+      "createdAt": 1776870061246
+    },
+    {
       "slug": "2026-04-22-un-qg-futuriste-pour-une-start-up-qui-s--a5xfdh",
       "prompt": "Un QG futuriste pour une start-up qui s'appelle Farmidable, au milieu des champs de blé, un soir de début d'été au coucher du soleil. Startup qui crée des logiciels à destination des coopératives agricoles. Rendu photoréaliste sans personnage. Un mix de modernité et de ferme en pierre et avec du bois. En arrière-plan, on doit apercevoir les montagnes du Vercors. Et de l'autre côté les canaux de l'Yonne.",
       "finalPrompt": "360 equirectangular image, Un QG futuriste pour une start-up qui s'appelle Farmidable, au milieu des champs de blé, un soir de début d'été au coucher du soleil. Startup qui crée des logiciels à destination des coopératives agricoles. Rendu photoréaliste sans personnage. Un mix de modernité et de ferme en pierre et avec du bois. En arrière-plan, on doit apercevoir les montagnes du Vercors. Et de l'autre côté les canaux de l'Yonne.",
